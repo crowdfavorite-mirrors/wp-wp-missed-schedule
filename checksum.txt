@@ -1,24 +1,9 @@
-√ WP Missed Schedule (2013.0531.4444) Checksum:
+WP Missed Schedule (2013.0730.7777) RC2013 - MD5 Checksum:
 
-.htaccess                           C6D6229CBB97AFF1D08E3F5FBF12A879
-index.html                          98D5DB5A9F362A5F6291DDD733CF0C65
-index.php                           78E4C294EAD95679B9029B4DB722EDB0
-keybit.txt                          CD55116071EBB7A748520CD47560D020
-license.txt                         75859989545E37968A99B631EF42722E
-readme.txt                          896E3C25313115BBB60E5EB375204497
-wp-missed-schedule.php              F936515BE42FFA1F562BD31697E5AD1C
-
-√ WP Missed Schedule - Special Gold Edition - (2013.0531.4444) Checksum:
-
-description.txt                         81497A9DB162669890C7C8323F70FED2
-
-wp-missed-schedule-1.php                15AF4ED1A17B89E6EF525AD581A309B7
-wp-missed-schedule-5.php                7651B12ACE71FDFDC791F89E9FE9CF81
-wp-missed-schedule-10.php               FD151C73E11C794ED4B57BE7DE164575
-wp-missed-schedule-15.php               AB7E227618CFADB7A0B47495654BA76F
-wp-missed-schedule-30.php               246D987A57CEDBE06EB97B7718378531
-wp-missed-schedule-60.php               E6EDA620A878633AC82B028ECDC8BB70
-wp-missed-schedule-120.php              B0B387AC54BC86B78DB2EC64F998E5A3
-wp-missed-schedule-180.php              5617C903B86438A4A6107106AAE7C8CC
-wp-missed-schedule-43200.php            083276526D4D94B0CEDE5744238950E4
-wp-missed-schedule-86400.php            C008D8202E4327BEA855DF12590B0FA9
+.htaccess                 5C15A9E1B4B468CBF73D400455334B0B
+index.html                D00E9BD8266C1E1413DB0F8763A73D3B
+index.php                 8CEF05E807FF4BB6358B7D93C51031E2
+keybit.txt                DB2472371629E91C58E80D8051805BC7
+license.txt               39BBA7D2CF0BA1036F2A6E2BE52FE3F0
+readme.txt                83E82CE3022F1BB962384CD277506000
+wp-missed-schedule.php    5F69059B011EF8314E06AB6105E1143E
